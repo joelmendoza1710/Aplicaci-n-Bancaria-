@@ -1,0 +1,14 @@
+form {
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-bottom: 15%;
+    margin: 30px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+button{
+    margin-right: 20px;
+}
